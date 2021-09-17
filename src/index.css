@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  /*   background-color: #141442; */
+}
+form {
+  padding: 1rem;
+  margin: 0 auto;
+  min-width: 16rem;
+  max-width: 422px;
+  box-sizing: border-box;
+}
+.root {
+  min-height: 92vh;
+}
